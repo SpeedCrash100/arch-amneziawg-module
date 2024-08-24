@@ -5,6 +5,7 @@
 
 This package downloads the kernel source for currently kernel you running. 
 It means after you updated kernel, you need to rebuild the package after booted into new kernel.
+It also means that if you have multiple kernels, it will build the package for only currently active one.
 
 
 ## ToDo:
