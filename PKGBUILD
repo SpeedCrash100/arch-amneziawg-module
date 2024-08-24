@@ -1,6 +1,6 @@
 
 _pkgname=amneziawg
-pkgname=${_pkgname}-dkms-git
+pkgname=${_pkgname}-module-git
 pkgver=1.0.20220627.r7.gc981738
 pkgrel=1
 pkgdesc="AmnesiaWG kernel module"
